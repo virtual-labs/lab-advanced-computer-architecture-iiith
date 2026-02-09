@@ -91,17 +91,19 @@
 ]
 ,
   "targetAudience": {
-    "UG":["2nd Year (4th semester)"
+    "UG":[
+      "3rd Year",
+      "4th Year"
     ],
     "PG": [
-      ""
+      "Graduate Students"
     ]
   },
   "objective": "<b>Key Learning Outcomes:</b><ol><li><b>Mastering Dynamic Scheduling:</b> Explore microarchitectural techniques like Scoreboarding and the Tomasulo algorithm for modern out-of-order processors.</li><li>Optimizing Branch Prediction: Analyse static and dynamic prediction methods to evaluate their impact on processor efficiency.</li><li>Ensuring Cache Coherence: Understand snoopy and directory-based protocols to maintain data integrity in multi-processor systems.</li></ol>",
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
-      "Computer Architecture is a professional core course in Computer Science and Engineering (PCC-CS402) recommended in the AICTE model curriculum."
+      "Computer Architecture is a professional Elective course in Computer Science and Engineering (PEC-CS-SXXX) recommended in the AICTE model curriculum."
     ]
 
 }
